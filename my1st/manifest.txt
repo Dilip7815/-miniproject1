@@ -1,0 +1,3 @@
+CR	my1st
+ch my1st "!st update"		./my1st/machine/Baiscs.py	2025-2-10 10:49:30	./my1st/machine/Baiscs/7ae4-L51.py	UPDATE"
+ch my1st "!st update"		./my1st/machine/clothingModel.py	2025-2-10 10:49:30	./my1st/machine/clothingModel/29bef-L264.py	UPDATE"
